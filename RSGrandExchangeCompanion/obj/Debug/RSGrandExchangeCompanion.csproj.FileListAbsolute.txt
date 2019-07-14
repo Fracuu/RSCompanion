@@ -98,12 +98,8 @@ C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\De
 C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.exe.config
 C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.exe
 C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.pdb
-C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.dll
-C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\System.Data.SQLite.dll
-C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.xml
-C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\System.Data.SQLite.xml
 C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csprojAssemblyReference.cache

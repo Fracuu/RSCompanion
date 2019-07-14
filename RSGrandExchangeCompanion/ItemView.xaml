@@ -10,8 +10,8 @@
     <Grid>
         <oxy:Plot Title="{Binding ItemDetails}">
             <oxy:Plot.Series>
-                <oxy:LineSeries ItemsSource="{Binding Series}"/>
-            </oxy:Plot.Series>
+                <oxy:LineSeries DataFieldX="Days since today" DataFieldY="Price" ItemsSource="{Binding Series}"/>
+                </oxy:Plot.Series>
         </oxy:Plot>
         <TextBlock Text="{Binding Data}"/>
     </Grid>

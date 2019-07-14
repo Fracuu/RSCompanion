@@ -43,16 +43,15 @@ namespace RSGrandExchangeCompanion
                 {
                     client.BaseAddress = new Uri("http://services.runescape.com");
 
-                        var recivedObject = new GraphModel();
                         var response = await client.GetAsync($"/m=itemdb_rs/api/graph/{Item.ItemID}.json");
                         string result = await response.Content.ReadAsStringAsync();
                         JsonConvert.PopulateObject(result, RecivedGraph);
-                    int i = -180;
+                    int days = -180;
                     var data = new List<DataPoint>();
                     foreach (var item in RecivedGraph.Average.Values)
                     {
-                        data.Add(new DataPoint(i, item));
-                        i++;
+                        data.Add(new DataPoint(days, item));
+                        days++;
                     }
                     Series = data;
                 }

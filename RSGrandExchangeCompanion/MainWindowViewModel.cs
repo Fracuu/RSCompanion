@@ -34,15 +34,16 @@ namespace RSGrandExchangeCompanion
             CurrentPage = 1;
             ItemList = new ObservableCollection<ItemModel>();
             Items = new ObservableCollection<ItemModel>();
-            SearchCommand = new RelayCommand(() => ClearData());
-            NextPage = new RelayCommand(() => NextPageView());
-            PrevPage = new RelayCommand(() => PrevPageView());
-            ShowItemInfo = new RelayCommand(() => ShowItemWindow());
+            SearchCommand = new RelayCommand(ClearData);
+            NextPage = new RelayCommand(NextPageView);
+            PrevPage = new RelayCommand(PrevPageView);
+            ShowItemInfo = new RelayCommand(ShowItemWindow);
 
         }
 
         private void ShowItemWindow()
         {
+            if (SelectedItem == null) return;
             NewWindow = new ItemView(SelectedItem);
             NewWindow.Show();
         }
