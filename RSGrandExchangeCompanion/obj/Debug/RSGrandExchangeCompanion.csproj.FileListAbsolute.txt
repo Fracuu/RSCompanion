@@ -1,0 +1,159 @@
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.exe.config
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.exe
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.pdb
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csprojResolveAssemblyReference.cache
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\MainWindow.g.cs
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\App.g.cs
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion_MarkupCompile.cache
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion_MarkupCompile.lref
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\MainWindow.baml
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.g.resources
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.Properties.Resources.resources
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.GenerateResource.Cache
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.exe
+c:\users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.pdb
+C:\Users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.CoreCompileInputs.cache
+C:\Users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.CopyComplete
+C:\Users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.dll
+C:\Users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\System.Data.SQLite.dll
+C:\Users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.xml
+C:\Users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pfrac\OneDrive\Documents\Visual Studio 2017\Projects\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.exe.config
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.exe
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.pdb
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.dll
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\System.Data.SQLite.dll
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.xml
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csprojAssemblyReference.cache
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\MainWindow.g.cs
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\App.g.cs
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion_MarkupCompile.cache
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion_MarkupCompile.lref
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\MainWindow.baml
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.g.resources
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.Properties.Resources.resources
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.GenerateResource.cache
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.CoreCompileInputs.cache
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.CopyComplete
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.exe
+C:\Users\Fracu\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.pdb
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.exe.config
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.exe
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.pdb
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.dll
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.SqlServer.dll
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Newtonsoft.Json.dll
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\System.Data.SQLite.dll
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.xml
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.SqlServer.xml
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Newtonsoft.Json.xml
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\System.Data.SQLite.xml
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csprojAssemblyReference.cache
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\MainWindow.g.cs
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\App.g.cs
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion_MarkupCompile.cache
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion_MarkupCompile.lref
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\MainWindow.baml
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.g.resources
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.Properties.Resources.resources
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.GenerateResource.cache
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.CoreCompileInputs.cache
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.CopyComplete
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.exe
+E:\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.pdb
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.exe
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csprojAssemblyReference.cache
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\MainWindow.g.cs
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\App.g.cs
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion_MarkupCompile.cache
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion_MarkupCompile.lref
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.exe.config
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.dll
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\System.Data.SQLite.dll
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.xml
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\MainWindow.baml
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.g.resources
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.Properties.Resources.resources
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.GenerateResource.cache
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.CoreCompileInputs.cache
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.Fody.CopyLocal.cache
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.CopyComplete
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.exe
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.pdb
+C:\Users\Stavor\Desktop\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.pdb
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.exe.config
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.exe
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\RSGrandExchangeCompanion.pdb
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\System.Data.SQLite.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.xml
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\System.Data.SQLite.xml
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csprojAssemblyReference.cache
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\MainWindow.g.cs
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\App.g.cs
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion_MarkupCompile.cache
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion_MarkupCompile.lref
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\MainWindow.baml
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.g.resources
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.Properties.Resources.resources
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.GenerateResource.cache
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.CoreCompileInputs.cache
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.Fody.CopyLocal.cache
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.csproj.CopyComplete
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.exe
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\RSGrandExchangeCompanion.pdb
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\ItemView.g.cs
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\obj\Debug\ItemView.baml
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\OxyPlot.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\OxyPlot.pdb
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\OxyPlot.xml
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\SharpDX.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\SharpDX.pdb
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Fracu\Desktop\Nowy folder (2)\RSGrandExchangeCompanion\RSGrandExchangeCompanion\bin\Debug\Eto.OxyPlot.Wpf.dll
